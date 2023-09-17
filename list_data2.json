@@ -1,0 +1,25 @@
+{
+	"Projects": [
+		{
+			"Title": "Landing Page Redesign",
+			"Product": "One Degree, 1degree.org",
+			"Research type": "Generative + Evaluative",
+			"When": "2023",
+			"URL": "COMING SOON"
+		},
+		{
+			"Title": "Reacting to Stress and Anxiety",
+			"Product": "Calm app",
+			"Research type": "Product Discovery - Generative",
+			"When": "2022",
+			"URL" "https://www.notion.so/francesb/Generative-Deep-Dive-Reacting-to-Stress-and-Anxiety-f8c15e0fc0cd4502b43e5f5623ed5aea"
+		},
+		{
+			"Title": "Research Prioritization and Democratization",
+			"Product": "Calm Research",
+			"Research type": "Operations",
+			"Year": "2022",
+			"URL" : "https://www.notion.so/francesb/Operations-Research-Prioritization-and-Democratization-63087b2c9baa4a1eb974e29f30a3e9e1"
+		}
+	]
+}
